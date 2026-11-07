@@ -1,2 +1,1 @@
-baseline content
-additional staged edits
+baseline text content
